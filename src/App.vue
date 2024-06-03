@@ -1,0 +1,1 @@
+<template>Empty App</template>
